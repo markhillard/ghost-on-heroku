@@ -48,6 +48,7 @@ function createConfig() {
     },
     mail: {
       transport: 'SMTP',
+      from: process.env.MAILGUN_EMAIL_ADDRESS,
       options: {
         service: 'Mailgun',
         auth: {
