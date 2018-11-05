@@ -11,12 +11,12 @@
   "version": "1.7.1",
   "dependencies": {
     "casper": "github:tryghost/Casper#2.7.0",
-    "ghost": "^2.3.0",
+    "ghost": "^2.4.0",
     "ghost-storage-adapter-s3": "^2.6.0",
     "mysql": "^2.14.1"
   },
   "engines": {
-    "node": "8.11.x"
+    "node": "8.12.x"
   },
   "scripts": {
     "start": "node server.js"
