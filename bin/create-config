@@ -42,7 +42,6 @@ function createConfig() {
 
   config = {
     url: process.env.PUBLIC_URL,
-    urlSSL: process.env.PUBLIC_URL_SSL,
     logging: {
       level: "info",
       transports: ["stdout"]
