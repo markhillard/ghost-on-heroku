@@ -11,7 +11,7 @@
   "version": "1.25.5",
   "dependencies": {
     "casper": "github:tryghost/Casper#2.10.3",
-    "ghost": "^2.25.6",
+    "ghost": "^2.25.9",
     "ghost-storage-adapter-s3": "^2.8.0",
     "mysql": "^2.17.1"
   },
