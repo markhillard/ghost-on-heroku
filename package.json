@@ -8,10 +8,10 @@
   },
   "bugs": "https://github.com/TryGhost/Ghost/issues",
   "private": true,
-  "version": "1.25.5",
+  "version": "4.8.3",
   "dependencies": {
     "casper": "github:tryghost/Casper#v4.0.5",
-    "ghost": "^4.7.0",
+    "ghost": "^4.8.3",
     "ghost-storage-adapter-s3": "^2.8.0",
     "mysql": "^2.18.1",
     "sqlite3": "^5.0.2"
